@@ -1,5 +1,6 @@
 # The iOS App Checklist
-### Making your iOS app the best it can be
+> Making your iOS app the best it can be
+
 
 **Accessibility:** An accessible app supports accessibility features by design and gives everyone a great user experience, regardless of their capabilities or how they use their devices.
 
