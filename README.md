@@ -11,6 +11,7 @@
 > People use Apple's accessibility features, such as reduced transparency, VoiceOver, and increased text size, to personalize how they interact with their devices in ways that work for them. An accessible app supports such personalizations by design and gives everyone a great user experience, regardless of their capabilities or how they use their devices.
 
 [ ] **Accessibility Inspector**: The entire app produces no accessibility warnings and Screen Curtain works flawlessly
+
 [ ] App Name: If the app name is not easily pronounced or is mispronounced by VoiceOver, [`CFBundleSpokenName`](https://developer.apple.com/documentation/bundleresources/information_property_list/cfbundlespokenname) is used in the Info.plist to tell the system the correct pronounciation
 [ ] Colors: Color isn't the only way to differentiate between objects, and system colors are used to automatically adapt to system changes. Sufficient color contrast ratios are used everywhere
 [ ] Drag and drop: If drag and drop is supported, use accessibility APIs to identify drag sources/drop targets (see [`accessibilityDragSourceDescriptors`](https://developer.apple.com/documentation/objectivec/nsobject/2891001-accessibilitydragsourcedescripto) and [`accessibilityDropPointDescriptors`](https://developer.apple.com/documentation/objectivec/nsobject/2891048-accessibilitydroppointdescriptor))
