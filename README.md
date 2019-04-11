@@ -1,4 +1,4 @@
-# The iOS App Checklist
+# ✅ The iOS App Checklist
 
 > Making your iOS app the best it can be
 
