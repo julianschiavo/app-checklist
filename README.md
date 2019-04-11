@@ -8,7 +8,7 @@
 
 **Technologies:** Apple has a great range of APIs and technologies, and you should aim to use them the best you can. This doesn't mean using every single available framework; rather, you should identify which fit your app well and implement them in a well designed experience.
 
-<input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>**App Store Presence:** This is by far the most nascent category I’ve been tracking, so its list is short. It includes best practices for the App Store.
+- [ ] **App Store Presence:** This is by far the most nascent category I’ve been tracking, so its list is short. It includes best practices for the App Store.
 
 <br>
 
